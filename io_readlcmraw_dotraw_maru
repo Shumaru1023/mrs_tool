@@ -1,5 +1,5 @@
 function [out]=io_readlcmraw_dotraw_maru(filename)
-filename='C:\Users\修紀\Documents\MATLAB\StudyFile\1.h2o'
+filename='.h2o'
 % Begin to read the data.  
 fid=fopen(filename);
 linenum=1;
